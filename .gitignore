@@ -1,0 +1,17 @@
+# Ignore build directory
+/build/
+
+# Ignore .class files
+*.class
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment files
+.env
