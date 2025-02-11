@@ -1,4 +1,4 @@
-package setinterface;
+package setinterface.checkiftwosetsareequal;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
